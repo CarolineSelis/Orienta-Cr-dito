@@ -11,7 +11,7 @@ Ela auxilia as micro e pequenas empresas a compreenderem suas chances de obter c
 •	Micro e pequenas empresas com necessidade de abordagem estratégica para melhorar sua situação financeira e aumentar chances de aprovação de crédito.
 
 ## Como ela funciona?
-A ferramenta Orienta Crédito oferece uma maneira prática para o empreendedor avaliarem suas chances de obter crédito. Para usar a ferramenta, basta acessar o site [Oriente Crédito](https://sites.pr.sebrae.com.br/hml/orienta_credito), fazer login com credenciais SEBRAE. 
+A ferramenta Orienta Crédito oferece uma maneira prática para o empreendedor avaliar suas chances de obter crédito. Para usar a ferramenta, basta acessar o site [Oriente Crédito](https://sites.pr.sebrae.com.br/hml/orienta_credito), fazer login com credenciais SEBRAE. 
 Uma vez conectado, selecionar o CNPJ que deseja consultar. Se o usuário ainda não tiver um CNPJ registrado, será direcionado para uma tela de cadastro para inserir as informações necessárias.
 A ferramenta realizará a análise e retornará com uma avaliação das chances de conseguir o crédito solicitado. O resultado será apresentado em formato de texto, como "Atenção necessária" ou " Pronto para avançar", e incluirá sugestões para melhorar as chances de aprovação.
 
